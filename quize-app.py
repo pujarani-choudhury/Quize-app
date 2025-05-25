@@ -44,19 +44,19 @@ def run_quiz():
             "answer": 'b'
         },
         {
-        "question": "1. What is the capital of India?",
-        "options": {'a': 'Delhi', 'b': 'Mumbai', 'c': 'Kolkata', 'd': 'Chennai'},
-        "answer": "a"
+            "question": "1. What is the capital of India?",
+            "options": {'a': 'Delhi', 'b': 'Mumbai', 'c': 'Kolkata', 'd': 'Chennai'},
+            "answer": "a"
         },
         {
-        "question": "2. What is 5 + 3?",
-        "options": {'a': '6', 'b': '8', 'c': '9', 'd': '7'},
-        "answer": "b"
+            "question": "2. What is 5 + 3?",
+            "options": {'a': '6', 'b': '8', 'c': '9', 'd': '7'},
+            "answer": "b"
         },
         {
-        "question": "3. Who developed Python?",
-        "options": {'a': 'James Gosling', 'b': 'Elon Musk', 'c': 'Guido van Rossum', 'd': 'Tim Cook'},
-        "answer": "c"
+            "question": "3. Who developed Python?",
+            "options": {'a': 'James Gosling', 'b': 'Elon Musk', 'c': 'Guido van Rossum', 'd': 'Tim Cook'},
+            "answer": "c"
         } 
 
     ]
